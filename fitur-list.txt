@@ -1,0 +1,4 @@
+berikut adalah fitur aplikasi
+1. bisa dilihat
+2. bisa dipakai
+3. bisa ditutup
